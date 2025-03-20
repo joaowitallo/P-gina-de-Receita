@@ -32,6 +32,9 @@ Este é um projeto simples de página de receita que exibe uma receita de bolo d
 - Substituir o texto **Lorem Ipsum** na seção de instruções adicionais.
 - Criar uma funcionalidade para que o botão "Comprar Ingredientes" redirecione para uma loja online.
 
+  ## Foto da Página
+  <img src="/imagens/PaginaDeReceita.png">
+
 ---
 
 Feito por: João Witallo C. Conceição
