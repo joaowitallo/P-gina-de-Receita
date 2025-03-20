@@ -1,0 +1,82 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'lato';
+    font-size: 20px;
+}
+
+.top-bar{
+    background-color: orange;
+    text-align: center;
+    padding: 15px;
+}
+
+.cabecalho{
+    background: url(./imagens/hero_bolo.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+
+.conteudo{
+    max-width: 990px;
+    margin: auto;
+    padding: 0px 40px;
+    margin-top: 100px;
+}
+
+h1, h2{
+    color: orange;
+}
+
+h1{
+    font-size: 48px;
+}
+
+h2{
+    font-size: 28px;
+}
+
+.caixa {
+    padding: 70px 100px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.caixa:hover{
+    box-shadow: 8px 8px 15px 12px rgb(205,205,205, 0.25);
+}
+
+.ingredientes{
+    cursor: url("./images/cursor_ingredientes.png"), pointer;
+}
+   
+.preparo{
+    cursor: url("./images/cursor_preparo.png"), pointer;
+}
+
+.instrucoes{
+    cursor: url("./images/cursor_intrucoes.png"), pointer;
+}
+
+.butao-comprar{
+    background-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    font-weight: 700;
+}
+
+footer{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    padding: 7px;
+    margin-top: 60px;
+}
